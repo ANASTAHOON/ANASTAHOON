@@ -10,12 +10,10 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ANASTAHOON&label=Profile%20views&color=0e75b6&style=flat" alt="MAHMOUDELSAYED7" /> </p>
 
 ### 👨‍💻 About me
-
 - 🔭 I’m currently working on **Graduation Project**
 - 🌱 I’m currently learning **Problem Solving ,Dart, Flutter**
 - 📫 How to reach me **anastahoon918@gmail.com**
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
 
 ### 💬 Connect with me
 <p align="left">
